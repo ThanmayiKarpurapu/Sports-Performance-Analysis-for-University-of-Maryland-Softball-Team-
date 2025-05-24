@@ -1,10 +1,10 @@
-**Project Proposal:**
+**DATA COLLECTION:**
+
 Collected data from University of Maryland’s sports website having information about the schedule of matches which were played from the year 2000 to 2023.
 
 **Data Source:**
 https://umterps.com/sports/softball/schedule
 
-**Data Collection:**
 Selected text only in order to view the data in table format-
  
 We considered all the important rows such as date of match, location of match, opponent details and the final match result. Analyzed the data on MS Word and MS excel and then formed the mission statement and mission objectives accordingly.
