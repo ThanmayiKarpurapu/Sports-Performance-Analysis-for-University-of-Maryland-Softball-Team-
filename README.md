@@ -29,11 +29,15 @@ As consultants, our mission is to serve as the catalyst for the University of Ma
 
 **ANALYSIS:**
 ● Conducted detailed SQL queries to identify KPIs for the softball team, enhancing strategic analysis 
+
 ● Utilized tableau to create advanced visualizations
 
 **INSIGHTS:**
 
 ●	Number of “Shutouts” indicate impressive defensive play from the team, as it reflects a strong performance in preventing the opposing team's hitters from reaching home plate. It signifies effective pitching, solid fielding, and teamwork to keep the opponent from scoring. Maryland’s team showed impressive defensive play against George Washington 8 times, Georgetown 7 times etc.
+
 ●	In contrast, Maryland’s defeat with the highest margins against teams like Nebraska, Ohio State, Clemson etc. show where their pitching, fielding and overall defense was weak. They should focus on defensive aspects of their game against these opponents.
+
 ●	Maryland has dominated the most against teams like Virginia, Delaware State, Towson etc. They should be confident when playing against these teams.
+
 ●	The maximum number of defeats against teams like Georgia Tech, Florida State, North Carolina etc. shed light on whom Maryland should practice more, get more fan support and improve their overall performance.
