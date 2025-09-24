@@ -1,3 +1,9 @@
+
+
+<img width="100" height="200" alt="image" src="https://github.com/user-attachments/assets/b4f5c0a1-244d-42ca-b914-bb13d7054c22" />
+
+
+
 **DATA COLLECTION:**
 
 Collected data from University of Maryland’s sports website having information about the schedule of matches which were played from the year 2000 to 2023.
@@ -41,3 +47,6 @@ As consultants, our mission is to serve as the catalyst for the University of Ma
 ●	Maryland has dominated the most against teams like Virginia, Delaware State, Towson etc. They should be confident when playing against these teams.
 
 ●	The maximum number of defeats against teams like Georgia Tech, Florida State, North Carolina etc. shed light on whom Maryland should practice more, get more fan support and improve their overall performance.
+
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/1d2ddca5-d459-4890-abda-c4b9d6fe8acf" />
+
